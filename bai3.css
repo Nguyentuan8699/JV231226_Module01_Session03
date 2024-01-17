@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containel {
+    width: 60%;
+    height: 200px;
+    border: 1px solid transparent;
+    text-align: center;
+    padding: 20px;
+    line-height: 50px;
+    margin: auto;
+    background-image: url(https://www.shutterstock.com/shutterstock/photos/1450341161/display_1500/stock-photo-black-wall-texture-rough-background-dark-concrete-floor-or-old-grunge-background-with-black-1450341161.jpg);
+    color: #fff;  
+}
+
+.button {
+    height: 30px;
+    width: auto;
+    background-color: red;
+    color: #fff;
+    cursor: pointer;
+    opacity: 0.5;
+}
+.button:active {
+    background-color: violet;
+}

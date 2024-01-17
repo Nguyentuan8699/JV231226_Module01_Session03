@@ -1,0 +1,26 @@
+.heading-3 {
+    color: red;
+    font-size: 30px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-weight: 500;
+   font-size: italic ;
+   text-align: center;
+   text-transform: uppercase ;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    text-align: center;
+}
+
+/*  Bộ thuộc tính CSS background */
+.container {
+    height: 300px;
+    width: 500px;
+    background-color: aqua;
+    background-image: url(../images/pngtree-nature-background-sunset-wallpaer-with-beautiful-flower-farms-image_2592160.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}

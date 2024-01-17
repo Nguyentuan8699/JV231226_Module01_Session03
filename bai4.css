@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img {
+    height: 200px;
+    width: 400px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.containel {
+    height: 350px;
+    width: 80%;
+    background-color: antiquewhite;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+}
+
+.box {
+    font-weight: 800;
+    color: red;
+}

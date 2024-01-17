@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containel {
+    width: 60%;
+    border: 1px solid gray ;
+    /* display: flex;
+    flex-direction: column;
+    align-items: center; */
+    margin: 0 auto;
+    text-align: center;
+    padding: 24px 20px;
+}
+
+.button-top {
+    height: 36px;
+    width: 80px;
+    background-color: #889acb;
+    border: 1px solid transparent;
+    color: #fff;
+}
+
+.heading {
+    font-size: 26px;
+    padding: 15px 0;
+
+}
+
+.hd-child {
+    color: blue;
+    font-weight: 600;
+
+}
+
+.button-1 {
+    height: 30px;
+    width: 100px;
+    background-color: black;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    margin-top: 10px;  
+}
